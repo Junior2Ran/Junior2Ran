@@ -3,7 +3,7 @@
 👴🏻 === FE，在百度地图🗺 当一名打工人，最近在搞三维可视化。  
 <br />
 
-👴🏻 主要在搞地图JS API相关的产品。比如  
+👴🏻 主要在搞地图JS API相关的产品和地理可视化。比如这些
 - 🐥 于react的基础库 [react-bmapgl](https://github.com/huiyan-fe/react-bmapgl)
 - 🧻 周边插件 [BMapGLLib](https://github.com/huiyan-fe/BMapGLLib)
 - 🖼 以及三维地理大数据库 [MapVGL](https://github.com/huiyan-fe/mapvgl)
